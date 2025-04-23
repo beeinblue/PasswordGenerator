@@ -18,7 +18,7 @@ This is a simple and efficient password generator built with Python. It creates 
 ### 1. Clone the repository:
 
 - bash
-git clone 
+git clone https://github.com/beeinblue/PasswordGenerator.git
 
 ### 2. Run the script:
 
